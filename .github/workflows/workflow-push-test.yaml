@@ -22,7 +22,7 @@ jobs:
     env:
       DATABRICKS_HOST: ${{ secrets.DEPLOYMENT_TARGET_URL }}
       DATABRICKS_TOKEN:  ${{ secrets.DEPLOYMENT_TARGET_TOKEN }}
-      PRODUCTION_PATH: /Workspace/production_workspace
+      PRODUCTION_PATH: /Workspace/Users/omar.talibi.96@gmail.com/ML_deployment_PRODUCTION
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
