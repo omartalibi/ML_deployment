@@ -4,5 +4,4 @@
 
 # COMMAND ----------
 
-print("test")
-print("toto")
+print("testing feature called toto")
